@@ -1,6 +1,4 @@
-# Conceitos de UNIQUE, PRIMARY KEY, FOREIGN KEY e SEQUENCES com PostgreSQL
-
-## Arquitetura de Microsserviços - Especialiazação em Engenharia de Software 
+# Arquitetura de Microsserviços - Especialiazação em Engenharia de Software 
 
 ### Palavras-chave
 
